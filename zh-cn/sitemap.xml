@@ -2,138 +2,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://krsmzzz.github.io/zh-cn/</loc>
+    <loc>https://example.com/zh-cn/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://krsmzzz.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://krsmzzz.github.io/ar/"
+                href="https://example.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://krsmzzz.github.io/zh-cn/"
+                href="https://example.com/zh-cn/"
                 />
   </url><url>
-    <loc>https://krsmzzz.github.io/zh-cn/categories/</loc>
+    <loc>https://example.com/zh-cn/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://krsmzzz.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://krsmzzz.github.io/ar/categories/"
+                href="https://example.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://krsmzzz.github.io/zh-cn/categories/"
+                href="https://example.com/zh-cn/categories/"
                 />
   </url><url>
-    <loc>https://krsmzzz.github.io/zh-cn/p/test-chinese/</loc>
+    <loc>https://example.com/zh-cn/p/test-chinese/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/zh-cn/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://krsmzzz.github.io/p/test-chinese/"
+                href="https://example.com/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://krsmzzz.github.io/zh-cn/p/test-chinese/"
+                href="https://example.com/zh-cn/post/"
                 />
   </url><url>
-    <loc>https://krsmzzz.github.io/zh-cn/post/</loc>
+    <loc>https://example.com/zh-cn/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://krsmzzz.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://krsmzzz.github.io/ar/post/"
+                href="https://example.com/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://krsmzzz.github.io/zh-cn/post/"
+                href="https://example.com/zh-cn/categories/test/"
                 />
   </url><url>
-    <loc>https://krsmzzz.github.io/zh-cn/categories/test/</loc>
+    <loc>https://example.com/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://krsmzzz.github.io/categories/test/"
+                href="https://example.com/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://krsmzzz.github.io/zh-cn/categories/test/"
+                href="https://example.com/zh-cn/page/"
                 />
   </url><url>
-    <loc>https://krsmzzz.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://example.com/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://krsmzzz.github.io/categories/%E6%B5%8B%E8%AF%95/"
+                href="https://example.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://krsmzzz.github.io/zh-cn/categories/%E6%B5%8B%E8%AF%95/"
+                href="https://example.com/zh-cn/tags/"
                 />
   </url><url>
-    <loc>https://krsmzzz.github.io/zh-cn/page/</loc>
+    <loc>https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://krsmzzz.github.io/page/"
+                href="https://example.com/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://krsmzzz.github.io/zh-cn/page/"
-                />
-  </url><url>
-    <loc>https://krsmzzz.github.io/zh-cn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://krsmzzz.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://krsmzzz.github.io/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://krsmzzz.github.io/zh-cn/tags/"
-                />
-  </url><url>
-    <loc>https://krsmzzz.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://krsmzzz.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://krsmzzz.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://example.com/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>
